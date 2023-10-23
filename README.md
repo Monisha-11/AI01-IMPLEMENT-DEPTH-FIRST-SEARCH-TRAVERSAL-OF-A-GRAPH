@@ -1,4 +1,4 @@
-# EXP-01 - Implement Depth First Search Traversal of a Graph
+# EXP 01 - Implement Depth First Search Traversal of a Graph
 
 #### NAME: MONISHA T
 #### REG NO: 212221240029
